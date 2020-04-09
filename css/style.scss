@@ -267,7 +267,7 @@ a {
   .banner-image {
     width: 100%;
     height: auto;
-    max-width: 600px;
+    max-width: 400px;
     @media (max-width: 767px) {
       transform: none !important;
       margin-bottom: 4rem;
@@ -288,12 +288,12 @@ a {
 
       h1 {
         color: $brand-color-2-alt;
-        font-size: 64px;     
+        font-size: 48px;     
       }
   
       p {
         color: white;
-        font-size: 22px;
+        font-size: 18px;
         font-weight: 300;
       }
     }    
@@ -302,7 +302,7 @@ a {
   a {
     img {
       width: auto;
-      height: 60px;
+      height: 50px;
     }
     margin: 0 15px 15px 0;
   }
