@@ -36,7 +36,7 @@
     });    
 
     // Scroll To Section
-    $('#navbar-smooth-scroll a[href^="#"], .navbar-brand, .smooth-scroll').on('click', function(event) {
+    $('.navbar:not(.navbar-terms) #navbar-smooth-scroll a[href^="#"], .navbar:not(.navbar-terms) .navbar-brand, .smooth-scroll').on('click', function(event) {
       event.preventDefault();
       var target = $($(this).attr('href'));
       if(target.length) {
