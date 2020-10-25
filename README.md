@@ -1,8 +1,8 @@
-![](./QuizKing.jpg)
+![Cover](./QuizKing.jpg)
 # QuizKing App Landing Page
-2020 design for QuizKing Mobile App Landing Page.
 
-See the working example at https://iftee.github.io/quizking-landing-page/.
+### [Live Demo](https://iftee.github.io/quizking-landing-page)
+This was my propsed 2020 design concept for QuizKing Mobile App Landing Page.
 
 ## Developer Instruction
 For further editing style.scss, use:
